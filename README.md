@@ -8,7 +8,7 @@
 # About Me
 ## My Interests
 * Rock Climbing - I have rock climbed for several years, and really enjoy the adrenaline rush of being high up on the wall.
-* Reading Science Fiction - I'm a big fan of Frank Herbert's Dune.
+* Reading Science Fiction - I'm a big fan of Frank Herbert's Dune. I was a fan before it was cool.
 
 ## Websites I Recommend
 * [AlternativeTo](https://alternativeto.net/) - I often use this website to find free and open-source alternatives to software that I am interested in using.
