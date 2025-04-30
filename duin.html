@@ -1,0 +1,23 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="duin.css">
+    </head>
+    <body>
+        <script src=duin.js defer></script>
+        <form id="taskForm">
+            <input type ="text" placeholder="Enter tasks here" id = "taskName">
+            <label for="priority">Priority:</label>
+            <select id="priority">
+                <option value = "High">High</option>
+                <option value = "Medium">Medium</option>
+                <option value = "Low" selected = "selected">Low</option>
+            </select>
+            
+            <input type ="checkbox" id ="importance">
+            <label id = "i_label" for="importance">Important</label>
+            <input type ="submit" id = "submit" value = "Add Task">
+        </form>
+
+        <div id = "taskmanager"></div>
+    </body>
+</html>
